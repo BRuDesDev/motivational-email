@@ -7,10 +7,10 @@ A program written in Python that sends an email once a week, containing a random
 >
 >$ cd motivational-email
 
-# Open main.py to edit variables to make work for you
+# Open main.py to edit variables so script works for you
 >$ sudo nano main.py
 
-# Fill in the constants with correct info
+# Fill in the variables with correct info
 MY_EMAIL = "your email to send from"
 
 MY_PASSWORD = "password to login to your above email"
